@@ -7,4 +7,8 @@ public class Rderpagetest {
 		System.out.println("hello");
 	}
 
+	public void geturl()
+	{
+		System.out.println("url");
+	}
 }
