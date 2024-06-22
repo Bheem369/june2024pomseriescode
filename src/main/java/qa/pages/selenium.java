@@ -1,3 +1,5 @@
+package qa.pages;
+
 public class selenium {
 	
 	String name;
@@ -7,7 +9,7 @@ public class selenium {
 	
 	public static void main(String[] args)
 	{
-		Employee e = new Employee();
+		selenium e = new selenium();
 		e.name = "shankar";
 		e.age = 32;
 		e.city = "Hyderabad";
